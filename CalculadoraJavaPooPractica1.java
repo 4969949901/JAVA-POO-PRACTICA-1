@@ -30,6 +30,9 @@ public CalculadoraJavaPooPractica1(){
   public double mult (double nouno,double nodos){
       return nouno*nodos;
   }
+  public double div (double nouno,double nodos){
+  return nouno/nodos;
+  }
   
   
 }
