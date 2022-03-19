@@ -21,8 +21,11 @@ public CalculadoraJavaPooPractica1(){
    }
    public double sumar (double nouno,double nodos){
    return nouno+nodos;
+   
    }
-
+  public double restar (double nouno,double nodos){
+  return nouno-nodos;
+  }
 }
 
     
