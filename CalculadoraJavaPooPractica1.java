@@ -26,7 +26,15 @@ public CalculadoraJavaPooPractica1(){
   public double restar (double nouno,double nodos){
   return nouno-nodos;
   }
+  
+  public double mult (double nouno,double nodos){
+      return nouno*nodos;
+  }
+  
+  
 }
+
+
 
     
     
